@@ -1,0 +1,9 @@
+requests
+numpy
+pandas
+openpyxl
+streamlit
+fastapi
+python-dotenv
+uvicorn[standard]
+google-genai
